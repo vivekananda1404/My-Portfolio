@@ -3,12 +3,12 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Expense tracker",
-    description: "A beautiful Expense Tracker app using React.",
+    title: "Real-time Sports Score & Commentary",
+    description: "Platform built with Web Sockets,React, Node.js, Express, PostgreSQL for live match updates and instant broadcasting.",
     image: "/projects/project1.png",
-    tags: ["React", "TailwindCSS", "ContextAPI"],
-    demoUrl: "#",
-    githubUrl: "#",
+    tags: ["Websockets", "React", "Arcject", "site 24X7", "Drizzel", "Neon", "Node.js", "Express", "PostgreSQL"],
+    demoUrl: "",
+    githubUrl: "https://github.com/vivekananda1404/Websockets-Sports-Dashboard",
   },
   {
     id: 2,
