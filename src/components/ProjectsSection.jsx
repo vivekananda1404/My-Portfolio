@@ -12,13 +12,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "Wild Fire Tracker",
+    title: "AI Powered Resume Analysis with Real-Time ATS score & Feedback",
     description:
-      "Build a wildfire Trcaker with NASA API and Google maps API.",
+      "Puter comapres the job description with the resume and gives you a score based on how well your resume matches the job requirements. It also provides feedback on how to improve your resume to increase your chances of getting hired.",
     image: "/projects/project2.png",
-    tags: ["React", "NASA API", "Google maps API"],
-    demoUrl: "#",
-    githubUrl: "#",
+    tags: ["Puter.js", "Typescript", "React"],
+    demoUrl: "https://ai-resume-analyzer-sigma-two-24.vercel.app/auth?next=/",
+    githubUrl: "https://github.com/vivekananda1404/AI-Resume-Analyzer-",
   },
   {
     id: 3,
